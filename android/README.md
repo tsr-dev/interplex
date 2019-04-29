@@ -1,2 +1,0 @@
-# interplex
-interplex android app
